@@ -61,4 +61,5 @@ Email: tiagogitdev@gmail.com
 
 ## Acknowledgements
 The theme used is the Azure-ttk-theme, from the github user rdbende. Link below.
+
 https://github.com/rdbende/Azure-ttk-theme
