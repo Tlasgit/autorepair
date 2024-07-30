@@ -54,6 +54,7 @@ pip install flask flask_sqlalchemy sqlalchemy flask_bcrypt Pillow pandas tkcalen
 ```
 ##  Executable
 Link to download the executable file:
+
 https://drive.google.com/file/d/17vv3QcDl9wfsgzHXHn3HddD7NdIm8yC3/view?usp=drive_link
 
 ## Contact
